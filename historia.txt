@@ -1,7 +1,10 @@
-Cesar espinosa 
-Ing. en sistemas computacionales
-Desarrollador Web
+Cesar Arion Espinosa Mendez 
+Ingenieria en sistemas computacionales
+
+Tecnologias que emplea todos los dias:
 -PHP
 -MySQL
 -Css
 -JavaScript
+
+fin
