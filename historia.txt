@@ -1,3 +1,7 @@
 Cesar espinosa 
-mexico 
-viva mi comentario 
+Ing. en sistemas computacionales
+Desarrollador Web
+-PHP
+-MySQL
+-Css
+-JavaScript
